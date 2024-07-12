@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex afee7c4..06a8d82 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,4 @@[m
+ <p>this is the neew repo </p>[m
+[31m-<title>this is the title</title>[m
+\ No newline at end of file[m
+[32m+[m[32m<title>this is the title</title>[m
+[32m+[m[32m<p> para1</p>[m
+[32m+[m[32m<p>writing the letter </p>[m
+\ No newline at end of file[m
